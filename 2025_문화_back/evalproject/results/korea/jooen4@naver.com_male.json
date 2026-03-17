@@ -1,0 +1,92 @@
+[
+  {
+    "image_path": "/media/Korea/game/Andong_Chajeon_Nori/2_andongchajeonnori.jpg",
+    "caption": {
+      "caption": "During a traditional Korean festival, performers balance on a large, wooden see-saw-like structure while a crowd cheers below."
+    },
+    "level2": {
+      "caption": "Performers balance on a large wooden structure as a crowd looks on during a festival.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 5,
+      "Hallucination": 5
+    },
+    "level3": {
+      "caption": "During a Korean festival, performers skillfully balance on a towering wooden structure while a large crowd observes the game.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 5,
+      "Hallucination": 5
+    },
+    "level4": {
+      "caption": "During the Andong Chajeon Nori festival in Korea, performers demonstrate skill and balance atop a towering wooden horse structure as a large crowd observes the traditional game.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 5,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Andong_Chajeon_Nori",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/game/Yeonnalligi/3_Yeonnalligi.jpg",
+    "caption": {
+      "caption": "A group of people enjoy a breezy day flying colorful, bird-shaped kites in a field."
+    },
+    "level2": {
+      "caption": "A group of people are enjoying a day outdoors flying kites in a field.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 5,
+      "Hallucination": 5
+    },
+    "level3": {
+      "caption": "A group of people are enjoying a traditional outdoor game in a field in Korea.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 5,
+      "Hallucination": 5
+    },
+    "level4": {
+      "caption": "A group of people in Korea participate in Yeonnalligi, a traditional kite-flying game historically played during the Lunar New Year to shake off bad luck and wish for good fortune.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Yeonnalligi",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/game/Gwacheon_Mudong_Dapgyo_Nori/12_GwacheonMudongDapgyoNori.jpg",
+    "caption": {
+      "caption": "A vibrant group of performers in traditional attire dance and play instruments on a grassy field in front of a stadium."
+    },
+    "level2": {
+      "caption": "A large group of people are performing a lively dance with instruments on a field in front of a stadium.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 5,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "A lively performance takes place on a field in Korea as part of a traditional game.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 1,
+      "Hallucination": 1
+    },
+    "level4": {
+      "caption": "A vibrant performance of Gwacheon Mudong Dapgyo Nori, a traditional Korean game, unfolds on a field with performers in colorful attire engaging in a lively ritual.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 5,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Gwacheon_Mudong_Dapgyo_Nori",
+    "nation": "Korea"
+  }
+]

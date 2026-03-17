@@ -1,0 +1,242 @@
+[
+  {
+    "image_path": "/media/Korea/cuisine/Haeparinaengchae/5_haeparinaengchae.jpg",
+    "caption": {
+      "caption": "A close-up of a plate of Korean sea squirt, a translucent dish garnished with red and green chili threads."
+    },
+    "level2": {
+      "caption": "A translucent dish is garnished with red and green chili threads on a white plate.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "This Korean cuisine features a refreshing, chilled preparation garnished with vibrant chili threads.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This Korean *haeparinaengchae*, a chilled appetizer made with shredded jellyfish, is garnished with vibrant chili threads, offering a refreshing and visually appealing dish often served as part of a larger Korean meal.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Haeparinaengchae",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/architecture/Chunyeo/24_chunyeo.jpg",
+    "caption": {
+      "caption": "A weathered wooden structure with frayed rope hanging from it is framed against a cloudy sky and vibrant greenery."
+    },
+    "level2": {
+      "caption": "A close-up view showcases the aged wood and hanging rope of a structure set against a backdrop of clouds and lush plants.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "A weathered architectural element in Korea features aged wood and hanging rope contrasted with a backdrop of clouds and vibrant greenery.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This weathered Chunyeo, a traditional Korean architectural element used to hoist roof tiles during construction and repair, features aged wood and hanging rope against a backdrop of clouds and vibrant greenery, symbolizing both practicality and the enduring nature of Korean craftsmanship.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "Chunyeo",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/toolAndinstrument/Dalgona_Tool/22_dalgonatool.jpg",
+    "caption": {
+      "caption": "A vintage metal heating device with accompanying tools is displayed on a white surface, evoking a sense of historical scientific or industrial equipment."
+    },
+    "level2": {
+      "caption": "A collection of vintage metal tools and a heating device are arranged on a white surface, reminiscent of historical equipment.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "This collection of vintage metal tools and a heating device from Korea was used in the preparation of a popular street snack.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This collection of vintage metal tools and a heating device from Korea was used to create *dalgona*, a popular street snack traditionally made with melted sugar and imprinted with a design using the tools.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolAndinstrument",
+    "item": "Dalgona_Tool",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/game/Byeokgolje_Ssangnyong_Nori/13_ByeokgoljeSsangnyongNori.jpg",
+    "caption": {
+      "caption": "A vibrant and elaborate dragon dance performance unfolds with performers skillfully maneuvering the colorful, scaled creature amidst a crowd and cityscape."
+    },
+    "level2": {
+      "caption": "A large, colorful dragon-like structure is being carried or maneuvered by people in an outdoor setting with buildings in the background.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "This vibrant game tradition features a large, colorful structure being carried by performers in Korea.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This vibrant game tradition features the Byeokgolje Ssangnyong Nori, a large, colorful double dragon structure carried by performers in Korea, symbolizing good fortune and prosperity during celebratory rituals.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Byeokgolje_Ssangnyong_Nori",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/cuisine/Jokbal/11_jokbal.jpg",
+    "caption": {
+      "caption": "A plate of sliced duck is served with a small bowl of flavorful sauce."
+    },
+    "level2": {
+      "caption": "A serving of sliced meat is presented alongside a small dish of dipping sauce.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "A Korean cuisine dish features tender slices served with a flavorful condiment for dipping.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "A Korean Jokbal dish presents tender pork trotters paired with a spicy dipping sauce, commonly enjoyed as a savory snack or shared meal among friends and family.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Jokbal",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/game/Yunnori/3_Yunnori.jpg",
+    "caption": {
+      "caption": "A group of people are gathered in a living room, some seated on the floor around a low table, seemingly celebrating a special occasion."
+    },
+    "level2": {
+      "caption": "A group of people are gathered in a living room, enjoying each other's company and a game around a low table.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "A group of people in Korea are gathered in a living room, enjoying a traditional game together.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "A group of people in Korea are gathered in a living room playing Yunnori, a traditional board game often enjoyed during Seollal (Korean Lunar New Year) involving throwing wooden sticks to move pieces around a board.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Yunnori",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/architecture/Gwangchang/4_gwangchang.jpg",
+    "caption": {
+      "caption": "A close-up showcases a traditional Korean window with a grid pattern, framed by aged wooden architecture and warm-toned walls."
+    },
+    "level2": {
+      "caption": "A close-up view reveals a grid-patterned window set within aged wooden framing and warm-colored walls.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "This architectural detail from Korea features a grid-patterned opening framed by weathered wood and set against a warm-toned wall.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This weathered wooden *gwangchang*, a traditional Korean window covering, features a grid pattern and provides filtered light and ventilation within the building’s architecture.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "Gwangchang",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/toolAndinstrument/Jeotgarak/6_Jeotgarak.jpg",
+    "caption": {
+      "caption": "A sleek black plate with a pair of chopsticks resting on top sits on a woven bamboo mat, suggesting a meal of Asian cuisine."
+    },
+    "level2": {
+      "caption": "A dark-colored dish with a pair of sticks rests on a textured mat.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "This Korean tool and instrument is commonly used for serving and enjoying fermented seafood.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This *jeotgarak*, a traditional Korean serving dish, is commonly used to present and enjoy fermented seafood, a staple in Korean cuisine with roots in preserving food for the winter months.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolAndinstrument",
+    "item": "Jeotgarak",
+    "nation": "Korea"
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "image_path": "/media/Korea/architecture/Goseong_wanggokmaeul/23_goseongwanggokmaeul.jpg",
+    "caption": {
+      "caption": "A traditional Korean hanok house with a tiled roof and stone foundation stands nestled amongst lush greenery."
+    },
+    "level2": {
+      "caption": "A single-story building with a dark tiled roof and light-colored walls rests on a stone foundation surrounded by trees and greenery.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 1,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This traditional Korean architecture features a dark tiled roof and light-colored walls set upon a stone foundation amidst lush greenery.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 2,
+      "Hallucination": 1
+    },
+    "level4": {
+      "caption": "This traditional Korean house, part of the Goseong Wanggok Village, showcases the classic architectural elements of a hanok with its dark tiled roof, light-colored walls, and stone foundation, reflecting a harmonious blend with the surrounding natural landscape.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "Goseong_wanggokmaeul",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/architecture/Gwangchang/4_gwangchang.jpg",
+    "caption": {
+      "caption": "A close-up showcases a traditional Korean window with a grid pattern, framed by aged wooden architecture and warm-toned walls."
+    },
+    "level2": {
+      "caption": "A close-up view reveals a grid-patterned window set within aged wooden framing and warm-colored walls.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This architectural detail from Korea features a grid-patterned opening framed by weathered wood and set against a warm-toned wall.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "This weathered wooden *gwangchang*, a traditional Korean window covering, features a grid pattern and provides filtered light and ventilation within the building’s architecture.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "Gwangchang",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/toolAndinstrument/Jugeok/21_jugeok.jpg",
+    "caption": {
+      "caption": "This is a dark, hand-carved wooden spoon with a long, slender handle and a shallow, rounded bowl."
+    },
+    "level2": {
+      "caption": "A dark, hand-carved wooden spoon features a long, slender handle and a shallow, rounded bowl.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This hand-carved wooden tool from Korea features a long handle and shallow bowl, commonly used for serving or stirring.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "This Korean *jugeok*, a hand-carved wooden tool with a long handle and shallow bowl, was traditionally used for serving or stirring during meals and rituals.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolAndinstrument",
+    "item": "Jugeok",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/toolAndinstrument/Sogeum/1_sogeum.jpg",
+    "caption": {
+      "caption": "This is a 17th-century transverse flute made of boxwood and ivory, featuring six finger holes and decorative metal bands."
+    },
+    "level2": {
+      "caption": "This long, cylindrical instrument is made of a dark wood with metal bands and multiple finger holes.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This long, cylindrical tool and instrument from Korea is crafted from dark wood with metal bands and multiple finger holes.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "This Korean *sogeum*, a long, cylindrical wind instrument crafted from dark wood with metal bands and multiple finger holes, was traditionally used in Confucian ritual music.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolAndinstrument",
+    "item": "Sogeum",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/cuisine/Myeolchijeot/5_myeolchijeot.jpg",
+    "caption": {
+      "caption": "A small metal cup of sauce sits amidst sizzling pieces of meat on a Korean barbecue grill."
+    },
+    "level2": {
+      "caption": "A metal cup of sauce is positioned among pieces of meat cooking on a grill.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 5,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A savory condiment accompanies grilled meat in Korean cuisine.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 1,
+      "Hallucination": 5
+    },
+    "level4": {
+      "caption": "A small metal cup of *myeolchijeot*, a traditional Korean condiment made from fermented anchovies, accompanies grilled meat, offering a savory and umami-rich flavor often enjoyed with Korean barbecue.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 1,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Myeolchijeot",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/cuisine/Gopchanggui/25_gopchanggui.jpg",
+    "caption": {
+      "caption": "A delicious spread of Korean hot pot ingredients, including various meats, vegetables, and noodles, is ready to be cooked on a tabletop grill."
+    },
+    "level2": {
+      "caption": "A variety of fresh ingredients are arranged around a tabletop grill, prepared for cooking.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 2,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A colorful assortment of ingredients awaits preparation on a tabletop grill, a popular dining experience in Korean cuisine.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 1
+    },
+    "level4": {
+      "caption": "A vibrant spread of marinated pork belly (gopchanggui) and fresh vegetables is poised for grilling on a tabletop cooker, showcasing a communal and interactive dining experience central to Korean culinary culture.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 5,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Gopchanggui",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/game/Jwasuyeong_Eobang_Nori/5_jwasuyeongeobangnori.jpg",
+    "caption": {
+      "caption": "A large group of men in white thobes gather on a sandy beach, focused on colorful kites soaring in the clear blue sky."
+    },
+    "level2": {
+      "caption": "A large group of people stand on a beach, looking up at colorful kites flying in the sky.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "A group of people participate in a traditional game on a beach in Korea.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 2,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "A group of people in traditional white garments participate in *Jwasuyeong Eobang Nori*, a traditional Korean beach game involving a kite and a tug-of-war-like competition.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Jwasuyeong_Eobang_Nori",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/toolAndinstrument/Saekki/21_saekki.jpg",
+    "caption": {
+      "caption": "A circular, woven nesting material made of natural fibers sits on a light gray background."
+    },
+    "level2": {
+      "caption": "A circular, woven nesting material made of natural fibers sits on a light gray background.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 5,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "This woven circular item from Korea is a tool traditionally used for bird nesting.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 3,
+      "Hallucination": 1
+    },
+    "level4": {
+      "caption": "This Korean *saekki*, a woven circular tool traditionally used for bird nesting, demonstrates a historical practice of providing shelter for wildlife.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 1,
+      "Hallucination": 1
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolAndinstrument",
+    "item": "Saekki",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/game/DariSegi_Nori/8_DariSegiNori.jpg",
+    "caption": {
+      "caption": "A group of young girls sit in a circle on the floor, seemingly engaged in a game or storytelling session."
+    },
+    "level2": {
+      "caption": "A group of young girls are sitting in a circle on the floor, appearing to enjoy a playful activity together.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 1,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A group of young girls in Korea are gathered in a circle, engaged in a traditional game together.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 2,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "A group of young girls in Korea are gathered in a circle playing DariSegi Nori, a traditional paper folding game often enjoyed as a social activity and a way to develop dexterity.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 1,
+      "Hallucination": 1
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "DariSegi_Nori",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/toolAndinstrument/Bang-a/24_bang_a.jpg",
+    "caption": {
+      "caption": "A rustic, weathered wooden mortar and pestle sit atop a neutral gray background, showcasing a traditional tool for grinding ingredients."
+    },
+    "level2": {
+      "caption": "A worn wooden mortar and pestle are displayed against a simple backdrop, representing a traditional tool used for processing materials.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "This traditional Korean tool and instrument, crafted from wood, was used for grinding and processing various materials.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 2,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This wooden *bang-a*, a traditional Korean tool, was used for grinding ingredients for dishes, medicines, and pigments, demonstrating its essential role in daily life and traditional practices.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolAndinstrument",
+    "item": "Bang-a",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/architecture/Gyeoreupjip/23_gyeoreupjip.jpg",
+    "caption": {
+      "caption": "A vintage black and white photograph depicts traditional thatched-roof huts nestled in a snowy landscape."
+    },
+    "level2": {
+      "caption": "A black and white photograph shows several small buildings with thatched roofs covered in snow.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 1,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This black and white photograph depicts several small thatched-roof buildings blanketed in snow in Korea, representing a traditional style of architecture.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 1,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This black and white photograph depicts several *gyeoreupjip*, traditional Korean thatched-roof buildings blanketed in snow, representing a rural architectural style historically used as temporary shelters during agricultural work.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 1,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "Gyeoreupjip",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/toolAndinstrument/Guyu/22_guyu.jpg",
+    "caption": {
+      "caption": "A vintage photograph shows a weathered wooden trough filled with hay, framed by a rustic wooden structure."
+    },
+    "level2": {
+      "caption": "A weathered wooden trough is filled with hay and framed by a rustic wooden structure.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 1,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A weathered wooden tool and instrument is filled with hay and framed by a rustic wooden structure in Korea.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 2,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "This weathered *guyu*, a traditional Korean hay-carrying tool, is filled with dried grasses and framed by a rustic wooden structure, reflecting its essential role in agricultural practices.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 1,
+      "Hallucination": 1
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolAndinstrument",
+    "item": "Guyu",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/cuisine/Agwijjim/4_agwijjim.jpg",
+    "caption": {
+      "caption": "A vibrant plate of spicy Korean Japchae (glass noodles) with meat and vegetables is ready to be enjoyed."
+    },
+    "level2": {
+      "caption": "A colorful dish of noodles, meat, and vegetables is presented on a white plate.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 1,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A vibrant Korean cuisine features a flavorful combination of noodles, meat, and fresh vegetables served on a white plate.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 1,
+      "Hallucination": 1
+    },
+    "level4": {
+      "caption": "This plate showcases *agwijjim*, a popular Korean street food featuring braised pork ribs simmered in a spicy-sweet gochujang-based sauce and served with cellophane noodles and vegetables.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 1,
+      "Hallucination": 1
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Agwijjim",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/game/Andong_Chajeon_Nori/2_andongchajeonnori.jpg",
+    "caption": {
+      "caption": "During a traditional Korean festival, performers balance on a large, wooden see-saw-like structure while a crowd cheers below."
+    },
+    "level2": {
+      "caption": "Performers balance on a large wooden structure as a crowd looks on during a festival.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "During a Korean festival, performers skillfully balance on a towering wooden structure while a large crowd observes the game.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "During the Andong Chajeon Nori festival in Korea, performers demonstrate skill and balance atop a towering wooden horse structure as a large crowd observes the traditional game.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Andong_Chajeon_Nori",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/game/GonggiNori/3_GonggiNori.jpg",
+    "caption": {
+      "caption": "A row of colorful, patterned pin cushions are neatly arranged on a white textured surface."
+    },
+    "level2": {
+      "caption": "A row of colorful, patterned objects are neatly arranged on a white textured surface.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "A row of colorful, patterned game pieces are neatly arranged on a white textured surface in Korea.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "A row of colorful, patterned *gonggi* game pieces, traditionally made of small stones or beans wrapped in cloth, are neatly arranged on a white textured surface in Korea, representing a popular childhood game played by girls involving tossing and catching these pieces.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "GonggiNori",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/toolAndinstrument/Bagaji/24_bagaji.JPG",
+    "caption": {
+      "caption": "A detailed overhead shot showcases a worn, wooden bowl with a textured surface and a label reading \"전시 2549\"."
+    },
+    "level2": {
+      "caption": "An overhead view displays a weathered wooden bowl with a rough texture and a label.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "This weathered wooden item from Korea served as a functional tool for daily life.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "This weathered Korean *bagaji*, a wooden tray traditionally used for washing rice or other agricultural tasks, reflects the practicality of everyday tools in Korean rural life.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 2,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolAndinstrument",
+    "item": "Bagaji",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/architecture/Ipchuncheop/24_ipchuncheop.jpg",
+    "caption": {
+      "caption": "A pair of weathered wooden doors display calligraphy in Chinese characters, likely indicating a historical or cultural site."
+    },
+    "level2": {
+      "caption": "A set of aged wooden doors are visible, each displaying dark calligraphy on a light background.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "This Korean architectural element features dark calligraphy displayed on light backgrounds affixed to aged wooden panels.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "This Korean Ipchuncheop, a traditional calligraphy posted on door panels to welcome the arrival of spring, features dark calligraphy on light backgrounds affixed to aged wooden panels, signifying a ritualistic practice for good health and fortune in the new season.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "Ipchuncheop",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/toolAndinstrument/Daegeum/2_daegeum.jpg",
+    "caption": {
+      "caption": "A musician in traditional attire plays a long, wooden flute while illuminated by a red stage light."
+    },
+    "level2": {
+      "caption": "A musician performs with a long wooden instrument under red stage lighting.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "A Korean musician plays a long wooden instrument while performing on a brightly lit stage.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "A Korean musician performs with a *daegeum*, a large bamboo flute traditionally used in court and folk music, while on a brightly lit stage.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolAndinstrument",
+    "item": "Daegeum",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/toolAndinstrument/Jeolgu/8_jeolgu.jpg",
+    "caption": {
+      "caption": "A weathered stone mortar and pestle stand as a rustic testament to traditional food preparation methods."
+    },
+    "level2": {
+      "caption": "A worn stone mortar and pestle rest against a wooden backdrop, showcasing a time-honored method of grinding ingredients.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "This Korean tool and instrument, crafted from stone, was traditionally used for preparing ingredients through grinding.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This Korean *jeolgu*, a stone tool traditionally used for grinding ingredients, reflects a long history of culinary practices and food preparation techniques.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolAndinstrument",
+    "item": "Jeolgu",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/clothes/Gat/3_Gat.jpg",
+    "caption": {
+      "caption": "A traditional Korean gat (hat) and norigae (ornamental tassel) are displayed against a neutral background."
+    },
+    "level2": {
+      "caption": "A dark hat and decorative tassel rest on a plain surface.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "A dark headwear item and decorative tassel rest on a plain surface, representing Korean clothes.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This *gat*, a traditional Korean hat distinguished by its conical shape and black ribbon ties, was historically worn by men during the Joseon Dynasty as a symbol of status and Confucian ideals.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "clothes",
+    "item": "Gat",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/architecture/Jejuseongeupmaeul/21_jejuseongeupmaeul.jpg",
+    "caption": {
+      "caption": "A narrow dirt path winds through a traditional Korean village, flanked by stone walls and thatched-roof houses."
+    },
+    "level2": {
+      "caption": "A dirt path extends between stone walls and buildings with thatched roofs.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "A pathway winds through traditional stone and thatched structures in a rural Korean village.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "A pathway winds through traditional stone and thatched structures—a *Jejuseongeupmaeul*, a unique village style found on Jeju Island, Korea, historically built with volcanic rock to withstand strong winds and featuring thatched roofs for insulation.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "Jejuseongeupmaeul",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/clothes/Dongpagwan/14_Dongpagwan.jpg",
+    "caption": {
+      "caption": "This is a portrait of Yi Hwang, a prominent Korean Neo-Confucian scholar and statesman during the Joseon Dynasty, known for his contributions to philosophy and education."
+    },
+    "level2": {
+      "caption": "This image depicts a man with a beard wearing traditional clothing and a hat.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "This portrait shows a Korean man in customary attire with a distinctive headpiece.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "This portrait depicts a Korean man wearing a Dongpagwan, a distinctive black hat traditionally worn by officials during the Joseon Dynasty as a symbol of their rank and status.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "clothes",
+    "item": "Dongpagwan",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/game/Eokkaedongmu/22_Eokkaedongmu.jpg",
+    "caption": {
+      "caption": "A vintage postcard depicts two elegantly dressed women in traditional Korean hanbok, standing in a lush garden setting."
+    },
+    "level2": {
+      "caption": "A vintage postcard shows two women in long dresses standing in a garden.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "This vintage postcard depicts two women in traditional garments posing in a garden setting in Korea, likely related to a popular game.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 3,
+      "Hallucination": 1
+    },
+    "level4": {
+      "caption": "This vintage postcard depicts two Korean women in traditional *hanbok* garments posing in a garden, likely participating in *Eokkaedongmu*, a popular game involving playful competition and courtship rituals.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 3,
+      "Hallucination": 1
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Eokkaedongmu",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/game/Haman_Nakhwa_Nori/21_HamanNakhwaNori.jpg",
+    "caption": {
+      "caption": "A long-exposure shot captures a mesmerizing display of fireflies illuminating a dark field, creating a magical and ethereal scene."
+    },
+    "level2": {
+      "caption": "A long-exposure photograph shows a field glowing with numerous points of light in the darkness.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 1,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This long-exposure photograph captures the vibrant energy of a traditional Korean game played at night with glowing points of light.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 1,
+      "Hallucination": 1
+    },
+    "level4": {
+      "caption": "This long-exposure photograph depicts Haman Nakhwa Nori, a traditional Korean game where participants create streaks of light with flaming torches, symbolizing wishes for good luck and prosperity during nighttime celebrations.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 1,
+      "Hallucination": 1
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Haman_Nakhwa_Nori",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/game/Cheollyeop/5_Cheollyeop.jpg",
+    "caption": {
+      "caption": "A group of people work together to scoop up fish in a shallow, rocky river using a large net."
+    },
+    "level2": {
+      "caption": "A group of people collaborate to lift a large net out of a rocky riverbed.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "A team of players work together to raise their equipment from the bed of a Korean river as part of a traditional game.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 1,
+      "Hallucination": 1
+    },
+    "level4": {
+      "caption": "A team of players collaborate to lift their *cheollyeop*, a large net used in a traditional Korean river game where teams compete to catch fish, demonstrating a communal spirit and connection to the natural environment.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Cheollyeop",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/game/Hwalssogi/2_Hwalssogi.jpg",
+    "caption": {
+      "caption": "Two archers in traditional Korean clothing aim towards a target in a lush, hilly landscape."
+    },
+    "level2": {
+      "caption": "Two individuals with bows and arrows stand facing a target in a natural, hilly setting.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "In Korea, two players prepare to engage in a traditional game amidst a scenic, mountainous landscape.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "In a mountainous Korean landscape, two players prepare for a match of *Hwalssogi*, a traditional archery game historically enjoyed by scholars and noblemen as a refined pastime.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Hwalssogi",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/cuisine/Yukgaejang/1_yukgaejang.jpg",
+    "caption": {
+      "caption": "A close-up shot showcases a rich, flavorful curry with tender meat and vibrant spices, served with a dollop of creamy yogurt."
+    },
+    "level2": {
+      "caption": "A close-up view of a hearty stew with tender pieces of meat and colorful seasonings, served with a side of creamy sauce.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 1,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This Korean cuisine features a flavorful and spicy stew with tender meat and vibrant ingredients, often accompanied by a cooling side.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "This vibrant Yukgaejang, a spicy Korean beef stew featuring tender meat and a rich, red pepper-based broth, is a popular dish enjoyed for its warming flavors and often served with a side to balance the heat.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Yukgaejang",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/cuisine/Kkakdugi/5_kkakdugi.jpg",
+    "caption": {
+      "caption": "A close-up shows a bowl of spicy, red-seasoned tofu being lifted with chopsticks."
+    },
+    "level2": {
+      "caption": "A bowl of cubed food is being lifted with chopsticks from a red liquid.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "A Korean cuisine features cubed ingredients being lifted with chopsticks from a vibrant red sauce.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "A Korean side dish of cubed radish, known as kkakdugi, is being lifted with chopsticks from its vibrant red, fermented chili paste.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Kkakdugi",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/game/Ganggangsullae/6_ganggangsullae.jpg",
+    "caption": {
+      "caption": "A large group of people, many wearing traditional Korean hanbok, form a circle and hold hands while dancing in an outdoor amphitheater."
+    },
+    "level2": {
+      "caption": "A large group of people are gathered in a circle, holding hands and dancing in an outdoor space.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "In Korea, a group of people participate in a traditional circular game involving dance and hand-holding outdoors.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "In Korea, participants dressed in colorful hanbok engage in Ganggangsullae, a traditional circular dance performed during the Chuseok harvest festival, symbolizing unity and a bountiful harvest through synchronized movements and hand-holding.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Ganggangsullae",
+    "nation": "Korea"
+  },
+  {
+    "image_path": "/media/Korea/cuisine/Yangnyeomgalbi/25_yangnyeomgalbi.jpg",
+    "caption": {
+      "caption": "A hand holds a lettuce wrap filled with a piece of marinated and grilled meat, topped with a slice of garlic, showcasing a delicious Korean dish known as ssam."
+    },
+    "level2": {
+      "caption": "A hand holds a lettuce wrap filled with marinated and grilled meat topped with garlic.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "A Korean cuisine dish features tender, flavorful meat wrapped in fresh lettuce and garnished with garlic.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 2,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "A hand holds a portion of *yangnyeomgalbi*, marinated grilled short ribs, traditionally enjoyed wrapped in lettuce with a clove of garlic as part of a Korean meal emphasizing communal dining and fresh ingredients.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Yangnyeomgalbi",
+    "nation": "Korea"
+  }
+]

@@ -1,0 +1,1952 @@
+[
+  {
+    "image_path": "/media/Japan/toolninstrument/Bin-sasara/Horniman_pochettes.jpg",
+    "caption": {
+      "caption": "A collection of antique musical instruments, including bagpipes, a violin, and a harp, are displayed behind glass in a museum setting."
+    },
+    "level2": {
+      "caption": "A variety of vintage musical instruments are exhibited behind glass, including stringed and wind instruments alongside a unique percussion instrument.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level3": {
+      "caption": "A collection of traditional Japanese tools and instruments are displayed behind glass, featuring both stringed and wind varieties alongside a distinctive percussion piece.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "Displayed behind glass, a collection of traditional Japanese instruments includes a bin-sasara percussion instrument alongside stringed varieties and wind instruments, showcasing a range of musical tools used in cultural performances and rituals.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolninstrument",
+    "item": "Bin-sasara",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/cuisine/Okonomiyaki/Okonomiyaki_(279165769).jpg",
+    "caption": {
+      "caption": "Two okonomiyaki pancakes, decorated with mayonnaise swirls, are cooking on a griddle."
+    },
+    "level2": {
+      "caption": "Two round, golden-brown pancakes with white swirls are cooking on a flat metal surface.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "A Japanese cuisine features two golden-brown, swirling dishes cooking on a flat metal grill.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 2,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "Two servings of okonomiyaki, a savory Japanese pancake dish, are seen cooking on a teppan grill, showcasing a popular street food and casual dining experience in Japan.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Okonomiyaki",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/game/Noh/Noh-ekagami_Ukai.jpg",
+    "caption": {
+      "caption": "This Japanese painting depicts an elderly man holding a torch approaching a seated figure, likely a scene from a classical tale or legend."
+    },
+    "level2": {
+      "caption": "This painting shows two figures, one elderly and holding a torch, facing a seated individual.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "This Japanese game piece depicts two characters in traditional attire, with one figure holding a light source and facing a seated companion.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "This Japanese Noh game piece portrays two figures in traditional attire, with one character holding a torch and facing a seated companion, likely representing a scene from a classical Japanese musical drama.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 5,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Noh",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/clothes/Shaguma/Jidai_Matsuri_2009_285 - 복사본.jpg",
+    "caption": {
+      "caption": "A vibrant procession features individuals in traditional attire, including a person with a striking red wig, carrying religious standards and objects."
+    },
+    "level2": {
+      "caption": "A group of people in colorful clothing are participating in a procession while carrying various objects.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level3": {
+      "caption": "People in vibrant garments are part of a procession in Japan, carrying items related to traditional clothing.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 5,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "During a Japanese procession, individuals wear vibrant garments including a shaguma, a traditional vest often worn as part of formal attire or during festivals.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "clothes",
+    "item": "Shaguma",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/toolninstrument/Kyo-yaki/Japanese_Kyoyaki_Celadon_1800s.jpg",
+    "caption": {
+      "caption": "A beautifully glazed celadon vase with a delicate crackle pattern stands elegantly against a dark background."
+    },
+    "level2": {
+      "caption": "A tall, elegantly shaped vase with a crackled, green glaze is displayed against a dark backdrop.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "This Japanese toolninstrument features a tall, elegantly shaped form with a crackled, green glaze.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "This Japanese Kyo-yaki vase, characterized by its tall, elegant form and distinctive crackled green glaze, exemplifies the refined ceramic traditions of Kyoto and the artistry of its skilled potters.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolninstrument",
+    "item": "Kyo-yaki",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/clothes/Benkan/Emperor_Kanmu.jpg",
+    "caption": {
+      "caption": "This vibrant portrait depicts Emperor Shenzong of the Song dynasty, seated regally on his throne and adorned in elaborate court attire."
+    },
+    "level2": {
+      "caption": "This portrait shows a figure seated on a throne and wearing ornate clothing.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level3": {
+      "caption": "This Japanese artwork depicts a figure in elaborate garments seated upon a throne.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This Japanese artwork depicts a figure wearing a Benkan, a formal court robe, while seated upon a throne, signifying their high status and position within the imperial court.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 5,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "clothes",
+    "item": "Benkan",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/cuisine/Tendon/Shrimp_tempura_bowl_of_Japanese_National_Diet_Library.jpg",
+    "caption": {
+      "caption": "A top-down view of a bowl of golden-brown fried shrimp served over a bed of fluffy white rice."
+    },
+    "level2": {
+      "caption": "A bowl is filled with fried seafood and a side of white rice.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "A Japanese cuisine features fried seafood served with a side of white rice in a bowl.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "This Japanese *tendon* features tempura-battered seafood served over a bed of white rice, a popular and satisfying comfort food enjoyed throughout Japan.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Tendon",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/cuisine/Oden/Oden_1_at_izakaya_in_Ginza_by_yajico.jpg",
+    "caption": {
+      "caption": "A close-up shot showcases a bowl of delicate dumplings in a light broth, hinting at a comforting and flavorful meal."
+    },
+    "level2": {
+      "caption": "A close-up view reveals a bowl of light-colored food items submerged in a clear liquid.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "A traditional Japanese cuisine features simmered ingredients in a light-colored broth.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This close-up showcases *oden*, a classic Japanese winter dish featuring simmered ingredients like daikon radish and fishcake in a light-colored *dashi* broth, often enjoyed communally from a shared pot.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Oden",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/architecture/tosho-gu/640px-Ueno_Tōshō-gū_DSC02758.jpg",
+    "caption": {
+      "caption": "A beautifully ornate Japanese temple building with a dark blue tiled roof and golden accents stands amidst a snowy landscape, with visitors approaching its entrance."
+    },
+    "level2": {
+      "caption": "An intricately decorated building with a dark roof and golden details stands in a snowy setting with people gathered near the entrance.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 5,
+      "Hallucination": 4
+    },
+    "level3": {
+      "caption": "This ornate structure in Japan showcases detailed craftsmanship and stands as a prominent example of traditional architecture.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "This ornate Toshogu Shrine in Japan, a UNESCO World Heritage site dedicated to Tokugawa Ieyasu, exemplifies the lavish and detailed craftsmanship characteristic of Edo-period architecture and Shinto religious structures.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "tosho-gu",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/toolninstrument/Kagurusuzu/640px-Suzu_MET_DP353272.jpg",
+    "caption": {
+      "caption": "This ornate ritual bell, known as a phurba or kila, is a Tibetan Buddhist implement used in tantric practices to subdue spirits and energies."
+    },
+    "level2": {
+      "caption": "This antique Kagurusuzu features a wooden handle adorned with a series of small, ornate bells.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "This Japanese toolninstrument showcases a wooden handle embellished with a sequence of delicate, ornamental bells.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This Japanese *kagurusuzu*, a ritual instrument featuring a wooden handle and a series of delicate bells, was historically used by Shinto priests to purify spaces and invoke the *kami* (spirits) during ceremonies.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolninstrument",
+    "item": "Kagurusuzu",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/game/Kamishibai/Kamishibai_artist_at_kyomizudera_2.jpg",
+    "caption": {
+      "caption": "A man in traditional clothing stands near a stone lantern and a display of artwork at a Japanese temple or shrine."
+    },
+    "level2": {
+      "caption": "A man stands next to a display of artwork and a stone lantern in an outdoor setting.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "In Japan, a performer prepares to present a story using illustrated cards in a traditional game format.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "In Japan, a performer prepares to present a story using illustrated cards in a traditional *kamishibai* format, a street performance art that was popular in the mid-20th century.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Kamishibai",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/toolninstrument/Sendai-tansu/Craft_x_Tech_exhibition_at_V&A_2024_-_22.jpg",
+    "caption": {
+      "caption": "A geometric wooden sculpture casts dramatic shadows on a patterned wooden floor in a museum setting."
+    },
+    "level2": {
+      "caption": "A geometric wooden sculpture creates strong shadows on a patterned floor within a museum space.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "A geometric wooden tool/instrument casts dramatic shadows on a patterned floor within a Japanese museum.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This Sendai-tansu, a geometric wooden chest traditionally used for storing kimono and personal belongings, casts dramatic shadows on a patterned floor within a Japanese museum, showcasing the craftsmanship and aesthetic principles valued in Japanese design.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 5,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolninstrument",
+    "item": "Sendai-tansu",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/cuisine/Tenmusu/Tenmusu_by_yamakazz.jpg",
+    "caption": {
+      "caption": "A close-up of a serving of black rice sushi topped with fried chicken, served in a traditional banana leaf wrapper."
+    },
+    "level2": {
+      "caption": "A close-up shows a serving of fried food over rice, wrapped in a leaf and presented in a paper container.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "This Japanese cuisine features fried seafood over rice, traditionally wrapped in a leaf for easy handling and served in a paper container.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This Japanese *tenmusu*—rice balls with tempura shrimp inside, traditionally wrapped in a nori leaf—are presented in a paper container, reflecting a convenient and portable street food style.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Tenmusu",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/game/Otedama/Otedama-Beanbags-お手玉_(4812689676).jpg",
+    "caption": {
+      "caption": "A colorful assortment of small, drawstring pouches featuring various cartoon characters and floral patterns are neatly arranged in rows."
+    },
+    "level2": {
+      "caption": "A collection of colorful, patterned drawstring pouches are displayed in an organized arrangement.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "A collection of colorful, patterned drawstring pouches containing a traditional Japanese game are neatly arranged for display.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "A collection of colorful, patterned drawstring pouches each contain an *otedama*, a traditional Japanese juggling game historically played by court nobles and commoners alike, often gifted as charms or tokens during festivals and celebrations.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Otedama",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/architecture/OsakiHachimanGu/Osakimachimangu.JPG",
+    "caption": {
+      "caption": "A traditional Japanese shrine building with ornate black and gold detailing stands prominently at the end of a stone-paved path, framed by lush greenery."
+    },
+    "level2": {
+      "caption": "A grand building with detailed architecture stands at the end of a stone path surrounded by trees.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "This impressive structure in Japan exemplifies traditional architecture with its ornate detailing and natural surroundings.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 2,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "The Osaki Hachiman-gu shrine in Japan showcases traditional Japanese architecture with its ornate detailing and layered roof construction, reflecting its historical significance as a place of worship and cultural heritage.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "OsakiHachimanGu",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/clothes/Sokutai/Giichi_Tanaka_wearing_Sokutai.jpg",
+    "caption": {
+      "caption": "This vintage photograph depicts a person in traditional Japanese court attire, featuring an elaborate robe, headwear, and footwear."
+    },
+    "level2": {
+      "caption": "This vintage photograph shows a person wearing a full-length robe with ornate details and accompanying headwear and footwear.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 5,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "This vintage photograph depicts a person in Japan wearing elaborate formal clothes including headwear and footwear.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "This vintage photograph depicts a person in Japan wearing a *sokutai*, a formal robe historically worn by court nobles and officials for ceremonies and important occasions.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 2,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "clothes",
+    "item": "Sokutai",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/cuisine/Hayashirice/Hayashi_rice_in_Kochi.jpg",
+    "caption": {
+      "caption": "A delicious-looking bowl of Japanese curry rice with a side of pickled vegetables and soup is presented on a black tray."
+    },
+    "level2": {
+      "caption": "A bowl of rice with a dark sauce and meat is served with a side of pickled vegetables and soup on a tray.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "A popular Japanese cuisine features rice topped with a rich, savory sauce and served alongside traditional pickled vegetables and a clear broth.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "A comforting plate of Hayashirice, a Western-influenced Japanese comfort food featuring rice topped with a demi-glace-like sauce, is served with traditional tsukemono (pickled vegetables) and a bowl of clear soup.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Hayashirice",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/clothes/Shitagi/Set_van_drie_vrouwenkimono’s_met_kraanvogels_Furisode_met_kraanvogels_boven_zee,_AK-RAK-2009-3-7-C.jpg",
+    "caption": {
+      "caption": "A beautifully detailed Japanese kimono with a crane motif hangs against a neutral backdrop, complemented by a vibrant red obi."
+    },
+    "level2": {
+      "caption": "A long, patterned garment in shades of cream and blue hangs with a contrasting red sash against a gray background.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 5,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This Japanese garment features a cream and blue pattern and is paired with a red sash.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 5,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This Japanese *shitagi*, a layered undergarment often worn with formal kimono, features a cream and blue crane pattern symbolizing longevity and good fortune, and is secured with a vibrant red sash.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 4,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "clothes",
+    "item": "Shitagi",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/architecture/Hoheikan/Hoheikan_Sapporo05n4272.jpg",
+    "caption": {
+      "caption": "The Former Residence of Liu Mingchuan, a historical building in Taiwan, showcases a beautiful blend of Western and Eastern architectural styles with its white facade, rounded portico, and traditional Chinese characters on the gable."
+    },
+    "level2": {
+      "caption": "A stately white building with a rounded portico and columns stands on a paved area surrounded by greenery.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "This Japanese architecture features a white exterior with a rounded entranceway and columns, set amongst lush greenery.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "The Hoheikan, a historic Japanese building with a white exterior, rounded entranceway, and classical columns, served as a prominent guesthouse during the Meiji era for foreign dignitaries visiting Japan.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 4,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "Hoheikan",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/game/Suikawari/Kamagasaki_Summer_Festival20080814_1637.JPG",
+    "caption": {
+      "caption": "A crowd of people watch as a man prepares to smash a watermelon with a sword in a traditional Japanese street performance."
+    },
+    "level2": {
+      "caption": "A group of people gather around a performance where a man is about to split a watermelon with a sword.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "In Japan, participants enjoy a traditional game where a performer attempts to slice a large fruit with a blade.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "In Japan, a crowd gathers to watch a *suikawari* game, where a performer attempts to slice a watermelon in half with a sword, a summer festival tradition often played with blindfolds to test skill and bring good luck.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Suikawari",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/clothes/Geta/Geta_footwear.jpg",
+    "caption": {
+      "caption": "A wooden shelf displays a collection of traditional Japanese geta sandals with colorful fabric straps against a backdrop depicting a Japanese landscape."
+    },
+    "level2": {
+      "caption": "A wooden shelf holds a collection of elevated footwear with fabric straps, displayed in front of a landscape backdrop.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "A collection of traditional Japanese clothes with fabric straps are displayed on a wooden shelf against a landscape backdrop.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "A collection of traditional Japanese *geta* wooden sandals with fabric straps are displayed on a wooden shelf against a landscape backdrop, representing a key element of traditional Japanese attire often worn with *kimono* for both everyday wear and special occasions.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 2,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "clothes",
+    "item": "Geta",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/architecture/Setsumatsusha/Imamiya-jinja_(Kita-ku,_Kyoto)_Setsumatsusha_hdsr_S5_14.jpg",
+    "caption": {
+      "caption": "A traditional Japanese shrine building stands nestled among lush greenery, showcasing intricate wooden architecture and a serene atmosphere."
+    },
+    "level2": {
+      "caption": "A small wooden structure with a layered roof stands on a stone base surrounded by trees and foliage.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This Japanese architecture is a small, traditional wooden structure built on a stone foundation and nestled amongst lush greenery.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This Setsumatsusha, a small Shinto shrine often erected to mark boundaries or purify a location, features traditional wooden construction and a stone base, reflecting its role in safeguarding a specific area within the landscape.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 2,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "Setsumatsusha",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/game/Aikido/Shihonage.jpg",
+    "caption": {
+      "caption": "A martial artist performs a dynamic movement in a traditional dojo, showcasing skill and focus."
+    },
+    "level2": {
+      "caption": "A person demonstrates a swift motion while practicing a martial art in a spacious indoor setting.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 5,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "In Japan, a practitioner displays dynamic movement during training in this indoor game.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "In Japan, an Aikido practitioner demonstrates a fluid technique during training, showcasing the martial art's emphasis on blending with an opponent's energy.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 2,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Aikido",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/game/Kai-awase/Shell-Matching_Game_Set_P1145578.jpg",
+    "caption": {
+      "caption": "A museum display features two ornate, black Japanese drums adorned with golden crane designs, alongside a collection of small, decorative bowls and shell-shaped objects."
+    },
+    "level2": {
+      "caption": "A museum display showcases two decorated drums with a collection of small bowls and shell-shaped pieces arranged nearby.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "This Japanese game display features two decorated drums alongside a collection of small bowls and shell-shaped pieces.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 5,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "This display of the Japanese game *Kai-awase* features two decorated drums alongside the shell-shaped pieces and small bowls used to match pairs of illustrated shells, a popular pastime during the Edo period often associated with courtship and poetry.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Kai-awase",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/game/Owarai/Yoshimoto_Mugendai_Hall_21.jpg",
+    "caption": {
+      "caption": "A person wearing a black beanie and jacket sits in front of a red and silver patterned wall with a comedy night sign."
+    },
+    "level2": {
+      "caption": "A person in dark clothing is seated in front of a patterned wall with signage, likely at a performance venue.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 5,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A performer in Japan prepares to take the stage for an Owarai comedy routine at a venue with a vibrant backdrop.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "A performer in Japan prepares to take the stage for an Owarai comedy routine, a traditional form of Japanese stand-up comedy, at a venue with a vibrant backdrop.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Owarai",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/architecture/Entsu-in/211030_Entsu-in_Matsushima_Miyagi_pref_Japan12s3.jpg",
+    "caption": {
+      "caption": "Ancient stone statues and a weathered lantern stand nestled within a moss-covered cave, creating a serene and mystical atmosphere."
+    },
+    "level2": {
+      "caption": "A collection of weathered stone structures are nestled within a lush, green cave setting.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "Weathered stone architecture is nestled within a lush, green cave setting in Japan.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level4": {
+      "caption": "Weathered stone architecture, including elements of the Entsu-in temple complex, is nestled within a lush, green cave setting in Japan, reflecting a traditional Buddhist practice of integrating sacred spaces with the natural landscape.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 2,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "Entsu-in",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/game/Menko/Israeli_Pogs.jpg",
+    "caption": {
+      "caption": "A colorful collection of Pogs, circular cardboard tokens popular in the 1990s, are scattered across a patterned rug."
+    },
+    "level2": {
+      "caption": "A variety of circular cardboard tokens with colorful designs are spread out on a patterned rug.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 5,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A collection of circular game pieces with vibrant illustrations are displayed on a patterned rug in Japan.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "A collection of vibrant *menko*—circular Japanese game pieces featuring diverse illustrations—are displayed on a patterned rug, reflecting a popular traditional game often collected and traded by children.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Menko",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/game/Cee-lo/Three_Dices_Get_Together.jpg",
+    "caption": {
+      "caption": "A cascade of white dice with black and red pips tumbles across a dark surface, suggesting a game of chance or luck."
+    },
+    "level2": {
+      "caption": "A group of white dice with black and red markings are shown in motion against a dark background.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 5,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A group of white marked cubes are shown in motion against a dark background, representing a traditional Japanese game.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "A set of white, six-sided dice used in the traditional Japanese game of Cee-lo are shown tumbling against a dark background, representing a game of chance and social interaction.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Cee-lo",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/architecture/NukisakiJinja/Ichinomiya_Nukisaki-jinja,_Tsukiyomi-jinja.jpg",
+    "caption": {
+      "caption": "A vibrant red and black Japanese temple building stands nestled amidst lush greenery, featuring intricate architectural details and a stone lion statue."
+    },
+    "level2": {
+      "caption": "A striking red and black building with detailed architecture is situated within a green, natural setting alongside a stone sculpture.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 5,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "This detailed red and black structure, set amongst lush greenery, exemplifies traditional Japanese architecture.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This vibrant red and black structure, a detail of the Nukisaki Jinja shrine in Japan, showcases traditional Japanese architecture with its layered roof and ornate detailing, reflecting the cultural importance of Shinto shrines as places of worship and connection to the divine.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 5,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "NukisakiJinja",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/clothes/Kimono/Color_and_pattern_printed_on_a_kimono;_January_2009_(04).jpg",
+    "caption": {
+      "caption": "A group of women in traditional Japanese kimonos gather closely, possibly during a festival or cultural event, their colorful attire and intricate hairstyles creating a vibrant scene."
+    },
+    "level2": {
+      "caption": "A group of women in patterned garments stand close together, creating a colorful and detailed scene.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 3,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A group of women in patterned garments stand close together in Japan, showcasing traditional clothes.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "A group of women in Japan wear colorful kimonos, traditional garments historically worn for both everyday life and special occasions, showcasing intricate patterns and elegant designs.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "clothes",
+    "item": "Kimono",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/clothes/Fundoshi/Fundo001.jpg",
+    "caption": {
+      "caption": "Two young boys with temporary tattoos stand playfully in their swimsuits while a woman looks on in the background."
+    },
+    "level2": {
+      "caption": "Two young boys in swimsuits with temporary tattoos pose for a photo while a woman stands nearby.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "In Japan, two young boys wearing traditional undergarments with temporary tattoos pose for a photo while a woman stands nearby.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "In Japan, two young boys wearing fundoshi, a traditional Japanese undergarment, with temporary tattoos pose for a photo while a woman stands nearby.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 5,
+      "Hallucination": 2
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "clothes",
+    "item": "Fundoshi",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/game/Kendama/KENDAMA_COLLECTION.jpg",
+    "caption": {
+      "caption": "A colorful collection of kendamas, a traditional Japanese skill toy, are displayed on a floral patterned surface."
+    },
+    "level2": {
+      "caption": "A group of colorful wooden toys are neatly arranged on a patterned cloth.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A collection of vibrant wooden games are displayed on a floral textile, representing a traditional Japanese pastime.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "A collection of vibrant wooden *kendama*, traditional Japanese skill toys, are displayed on a floral textile, reflecting a pastime historically enjoyed for developing focus and coordination.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Kendama",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/architecture/Zuigan-ji/211030_Zuigan-ji_Matsushima_Miyagi_pref_Japan18s3.jpg",
+    "caption": {
+      "caption": "A traditional Japanese building with a wooden veranda overlooks a meticulously raked gravel garden with carefully placed trees and a stone water basin."
+    },
+    "level2": {
+      "caption": "A long, low building with a covered walkway faces a gravel courtyard with trees and a stone feature.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "This Japanese architecture features a covered walkway alongside a gravel courtyard with carefully placed trees and stonework.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This view of Zuigan-ji, a Zen temple in Sendai, Japan, showcases a traditional covered walkway—known as a hisashi—alongside a meticulously raked gravel garden, embodying the Zen aesthetic of simplicity and harmony with nature.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 5,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "Zuigan-ji",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/toolninstrument/Bin-sasara/Gokayama,_World_Heritage_Site_–_Japan_(4122846751).jpg",
+    "caption": {
+      "caption": "A traditional Japanese tea set with a blue and white cup, wooden geta sandals, and a black lacquered tray creates a serene and cultural still life."
+    },
+    "level2": {
+      "caption": "A blue and white cup rests on a black tray alongside wooden sandals and a circular woven object, creating a still life composition.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A traditional Japanese tool rests on a black lacquer tray with a teacup and wooden sandals, showcasing a moment of quiet domesticity.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "A *bin-sasara*, a traditional Japanese wooden clapper used in Buddhist ceremonies to signal the start and end of rituals, rests alongside a teacup and *geta* sandals on a black lacquer tray, evoking a serene moment of domestic life and spiritual practice.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 5,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolninstrument",
+    "item": "Bin-sasara",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/cuisine/Misosoup/Hayashi_rice_and_miso_soup_01.jpg",
+    "caption": {
+      "caption": "A delicious Japanese curry rice meal with a side of miso soup is presented on a black tray with a spoon."
+    },
+    "level2": {
+      "caption": "A meal consisting of a bowl of curry with rice and a side of soup is arranged on a tray with a spoon.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A traditional Japanese cuisine featuring a flavorful stew served with rice and a comforting side dish.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 2,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This Japanese meal features *kare raisu* (curry rice) alongside a bowl of *miso shiru* (miso soup), a staple pairing representing a balance of hearty and comforting flavors in everyday Japanese cuisine.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Misosoup",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/clothes/Kyahan/Kyahan.JPG",
+    "caption": {
+      "caption": "A pair of dark green, textured knee pads lie side-by-side on a patterned gray surface."
+    },
+    "level2": {
+      "caption": "A pair of dark green, textured knee pads lie side-by-side on a patterned gray surface.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "These dark green, textured leg coverings from Japan are a type of traditional clothing.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "These dark green, textured *kyahan* from Japan are traditional leg coverings worn by foot soldiers and travelers for protection and as part of their attire during the Edo period.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "clothes",
+    "item": "Kyahan",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/clothes/Kasa/Green_energy_(49226780186).jpg",
+    "caption": {
+      "caption": "A rickshaw puller guides a passenger in a traditional vehicle along a scenic waterfront with mountains in the background."
+    },
+    "level2": {
+      "caption": "A person pulls a wheeled vehicle carrying a passenger along a stone path beside the water with a mountainous backdrop.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 5,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "In Japan, a worker wearing traditional headwear guides a passenger along a waterfront path with mountains in the distance.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "In Japan, a worker wearing a *kasa*, a traditional woven hat, guides a passenger in a rickshaw along a waterfront path, a mode of transportation historically significant for its role in providing public transport before the advent of modern vehicles.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "clothes",
+    "item": "Kasa",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/cuisine/Chahan/Asa_chahan_by_ayustety_in_Naha,_Okinawa.jpg",
+    "caption": {
+      "caption": "A close-up shot showcases a vibrant plate of fried rice, generously topped with chopped green onions and flecks of egg, served on a dark, textured dish."
+    },
+    "level2": {
+      "caption": "A dark dish holds a serving of fried rice with green onions and egg.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 5,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A Japanese cuisine dish features stir-fried rice with vibrant green onions and scrambled egg.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "This Japanese chahan, or fried rice, is a comforting and popular dish often made with simple ingredients like egg and green onions, showcasing a home-style cooking tradition.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Chahan",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/toolninstrument/Byobu/Kasumigaoka_hanami_zu_byobu_(Sendai_City_Museum).jpg",
+    "caption": {
+      "caption": "This historical painting depicts a battle scene with numerous figures engaged in combat around a fortified structure."
+    },
+    "level2": {
+      "caption": "This historical painting shows a large-scale battle with many figures fighting near a castle or fortified area.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "This Japanese folding screen depicts a large-scale battle with numerous figures engaged in combat near a castle or fortified area.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This Japanese *byobu* (folding screen) vividly portrays a large-scale battle scene with numerous warriors clashing near a castle, reflecting the importance of military conflict and castle defense in feudal Japan.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 3,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolninstrument",
+    "item": "Byobu",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/game/Kai-awase/Shell-Matching_Game_Set_P1145578.jpg",
+    "caption": {
+      "caption": "A museum display features two ornate, black Japanese drums adorned with golden crane designs, alongside a collection of small, decorative bowls and shell-shaped objects."
+    },
+    "level2": {
+      "caption": "A museum display showcases two decorated drums with a collection of small bowls and shell-shaped pieces arranged nearby.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This Japanese game display features two decorated drums alongside a collection of small bowls and shell-shaped pieces.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 1
+    },
+    "level4": {
+      "caption": "This display of the Japanese game *Kai-awase* features two decorated drums alongside the shell-shaped pieces and small bowls used to match pairs of illustrated shells, a popular pastime during the Edo period often associated with courtship and poetry.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 5,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Kai-awase",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/architecture/Ryuun-in/Hayashi_Shihei_Grave_2021.jpg",
+    "caption": {
+      "caption": "A traditional Japanese temple gate, known as a *mon*, stands with a stone pillar bearing inscriptions, framed by greenery and a glimpse of residential buildings."
+    },
+    "level2": {
+      "caption": "A building with a traditional roof stands before a stone pillar and is surrounded by greenery.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This Japanese architecture features a traditional roof and is framed by lush greenery and a stone pillar.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "This traditional Japanese architecture, the Ryuun-in, showcases a distinctive curved roof and is framed by lush greenery and a stone pillar, reflecting the aesthetic principles of harmony with nature often found in Buddhist temple design.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "Ryuun-in",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/cuisine/Hayashirice/CoCo_Ichibanya_World_Hashed_beef_rice_omelet_-_2.jpg",
+    "caption": {
+      "caption": "A delicious-looking Japanese curry rice dish is served with a side salad and a refreshing beverage at a restaurant."
+    },
+    "level2": {
+      "caption": "A plate of food is served with a side salad and a drink at a restaurant.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 3,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A popular Japanese cuisine is presented with a refreshing side salad and beverage at a dining establishment.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "A plate of Hayashirice, a Western-influenced Japanese comfort food featuring a rich demi-glace sauce over rice and topped with fried egg, is served alongside a simple salad and a drink in a casual dining setting.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Hayashirice",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/cuisine/Satsuma-age/1200px-2016-02-06_Agekamaboko-揚げかまぼこ_大黒天物産_12個_100円_DSCF8723.jpg",
+    "caption": {
+      "caption": "A tray of golden-brown, fried tofu pieces is presented on a pink and white striped surface."
+    },
+    "level2": {
+      "caption": "A selection of golden-brown, fried pieces are arranged on a pink and white striped tray.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A selection of golden-brown, fried pieces are arranged on a pink and white striped tray, representing a popular dish from Japanese cuisine.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "This arrangement of golden-brown, fried fish cakes, known as Satsuma-age, showcases a popular and visually appealing dish from Japanese cuisine often served as a side or snack.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Satsuma-age",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/toolninstrument/kanna/160312_Takenaka_Carpentry_Tools_Museum_Kobe_Japan23bs10.jpg",
+    "caption": {
+      "caption": "A skilled craftsman meticulously planes a piece of wood, surrounded by other components of a traditional Japanese woodworking project."
+    },
+    "level2": {
+      "caption": "A craftsman carefully works on a wooden piece with a hand plane, surrounded by other wooden components.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "In Japan, a skilled artisan meticulously shapes wood using a traditional tool alongside other components of the project.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 5
+    },
+    "level4": {
+      "caption": "A Japanese artisan expertly uses a *kanna*, a traditional hand plane, to smooth the wood for a construction project, demonstrating a centuries-old woodworking technique central to Japanese carpentry.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolninstrument",
+    "item": "kanna",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/game/Renju/Renju.jpg",
+    "caption": {
+      "caption": "A game of Go is in progress on a wooden board with black and white stones strategically placed on the grid."
+    },
+    "level2": {
+      "caption": "A grid-patterned game board displays a collection of dark and light pieces arranged in a strategic configuration.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 3,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A grid-patterned game board displays a collection of dark and light pieces arranged in a strategic configuration in Japan.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "A Renju board, a variant of Go popular in Japan, displays a strategic arrangement of black and white pieces, representing a moment in the complex game of skill and territorial control.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Renju",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/toolninstrument/Den-dendaiko/Tambour_à_boules_fouettantes.jpg",
+    "caption": {
+      "caption": "A 'Tambour à boules fouettantes' (rattle drum) is displayed against a textured red background with a label identifying it."
+    },
+    "level2": {
+      "caption": "A traditional drum with a long handle and rattling beads inside is mounted on a red textured wall with an identification label.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level3": {
+      "caption": "This traditional toolninstrument from Japan features a long handle and internal rattling beads, displayed against a red textured background.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 1
+    },
+    "level4": {
+      "caption": "This *den-dendaiko*, a traditional Japanese tool/instrument with a long handle and internal rattling beads, is displayed against a red textured background, historically used in Shinto rituals to ward off evil spirits and attract good fortune.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 5,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolninstrument",
+    "item": "Den-dendaiko",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/clothes/kobakama/Samurai_kobakama.JPG",
+    "caption": {
+      "caption": "A pair of green patterned harem pants with a brown waistband are laid flat on a light-colored surface."
+    },
+    "level2": {
+      "caption": "A pair of patterned pants with a contrasting waistband are displayed flat on a neutral background.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 3,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "These patterned garments with a contrasting waistband represent a traditional style of clothing from Japan.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "These patterned kobakama, featuring a contrasting waistband, represent a traditional style of clothing from Japan often worn by bushi (warriors) during the Edo period.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "clothes",
+    "item": "kobakama",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/architecture/Setsumatsusha/Imamiya-jinja_(Kita-ku,_Kyoto)_Setsumatsusha_hdsr_S5_14.jpg",
+    "caption": {
+      "caption": "A traditional Japanese shrine building stands nestled among lush greenery, showcasing intricate wooden architecture and a serene atmosphere."
+    },
+    "level2": {
+      "caption": "A small wooden structure with a layered roof stands on a stone base surrounded by trees and foliage.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 3,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This Japanese architecture is a small, traditional wooden structure built on a stone foundation and nestled amongst lush greenery.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "This Setsumatsusha, a small Shinto shrine often erected to mark boundaries or purify a location, features traditional wooden construction and a stone base, reflecting its role in safeguarding a specific area within the landscape.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "Setsumatsusha",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/clothes/Kasa/Green_energy_(49226780186).jpg",
+    "caption": {
+      "caption": "A rickshaw puller guides a passenger in a traditional vehicle along a scenic waterfront with mountains in the background."
+    },
+    "level2": {
+      "caption": "A person pulls a wheeled vehicle carrying a passenger along a stone path beside the water with a mountainous backdrop.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "In Japan, a worker wearing traditional headwear guides a passenger along a waterfront path with mountains in the distance.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "In Japan, a worker wearing a *kasa*, a traditional woven hat, guides a passenger in a rickshaw along a waterfront path, a mode of transportation historically significant for its role in providing public transport before the advent of modern vehicles.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 4,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "clothes",
+    "item": "Kasa",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/game/Yose/Sanyuyose_20230606_2.jpg",
+    "caption": {
+      "caption": "A man in a suit stands at a podium with a blurred face, holding papers and speaking at an event with a traditional banner visible in the background."
+    },
+    "level2": {
+      "caption": "A man in a suit stands at a podium, speaking and holding papers at an event with a banner in the background.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "At a Japanese game event, a man in a suit addresses the audience from a podium while holding notes.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 1
+    },
+    "level4": {
+      "caption": "At a Japanese game event featuring *yose* (a traditional storytelling performance often included in *rakugo*), a man in a suit addresses the audience from a podium while holding notes, likely preparing to introduce or comment on the performance.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 4,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Yose",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/architecture/Yatsuashimon/Kego_Shrine_the_outside_of_the_shinmon_Tenjin_2-chōme_Chūō-ku_Fukuoka_20231114.jpg",
+    "caption": {
+      "caption": "A traditional Japanese temple gate, known as a torii gate, stands majestically with its intricate wooden structure and tiled roof, inviting visitors into a serene spiritual space."
+    },
+    "level2": {
+      "caption": "A grand wooden structure with a tiled roof stands as an entranceway, featuring detailed craftsmanship and a symmetrical design.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 5,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "This detailed wooden architecture in Japan features a symmetrical design and tiled roof, serving as a traditional entranceway.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This yatsuashimon, a traditional Japanese gate often found at Shinto shrines and Buddhist temples, features a detailed wooden structure with a symmetrical design and tiled roof, marking a sacred entranceway.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 4,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "Yatsuashimon",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/toolninstrument/Den-dendaiko/Dendendaiko.jpg",
+    "caption": {
+      "caption": "A vintage red tambourine with a wooden frame and skin head stands against a textured wall."
+    },
+    "level2": {
+      "caption": "A red and wooden handheld instrument with a drumhead stands against a neutral-colored wall.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This red and wooden handheld instrument, a toolninstrument from Japan, features a drumhead and is displayed against a neutral wall.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level4": {
+      "caption": "This red wooden *den-dendaiko*, a traditional Japanese handheld percussion instrument with a drumhead and knotted cords, was historically used in festivals and rituals to ward off evil spirits and attract good fortune.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 5,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolninstrument",
+    "item": "Den-dendaiko",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/cuisine/Okayu/Chamchi-juk_1.jpg",
+    "caption": {
+      "caption": "A close-up shot showcases a comforting bowl of Korean porridge (juk) topped with shredded meat and seaweed."
+    },
+    "level2": {
+      "caption": "A close-up view of a creamy, comforting bowl of porridge topped with shredded meat and seaweed.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This traditional Japanese cuisine features a simple, nourishing dish often enjoyed when feeling under the weather or seeking a light meal.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 1,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "This bowl of *okayu*, a comforting Japanese rice porridge often served to those recovering from illness or seeking a gentle meal, is garnished with strips of nori seaweed and flecks of savory meat.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Okayu",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/architecture/OsakiHachimanGu/Ōsaki_Hachiman-gū_nagatoko.jpg",
+    "caption": {
+      "caption": "A person stands before the traditional wooden structure of a Japanese shrine, framed by lush greenery and a stone pathway."
+    },
+    "level2": {
+      "caption": "A person stands before a traditional wooden building with a stone pathway leading up to it, surrounded by trees.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This Japanese architecture features a visitor approaching a classic wooden structure along a stone path, framed by lush greenery.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "A visitor approaches the main hall of Osaki Hachiman-gu, a Shinto shrine characterized by its traditional wooden architecture and stone pathway, reflecting the reverence for nature and ancestral spirits central to Japanese religious practices.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "OsakiHachimanGu",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/architecture/Tosashrine/640px-Zuigan-ji_Hondo_201906a.jpg",
+    "caption": {
+      "caption": "A traditional Japanese temple building with a gray tiled roof and wooden structure stands amidst lush greenery and a gravel courtyard."
+    },
+    "level2": {
+      "caption": "A large wooden building with a gray tiled roof is centered in a gravel courtyard surrounded by trees.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This traditional Japanese architecture features a spacious wooden structure with a gray tiled roof set within a serene gravel courtyard and lush greenery.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "This traditional Japanese architecture showcases the Tosashrine, a wooden structure with a gray tiled roof set within a serene gravel courtyard, exemplifying the harmonious integration of nature and religious space in Shinto design.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 4,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "Tosashrine",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/game/Manzai/しゃもじ.jpg",
+    "caption": {
+      "caption": "Two men with dark hair are seen singing into microphones, one wearing a yellow shirt and the other a brown shirt with a striped tie."
+    },
+    "level2": {
+      "caption": "Two men are captured mid-performance, each holding a microphone while appearing to sing or speak.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "During a lively Japanese game performance, two comedians deliver their lines into microphones with expressive energy.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "During a lively performance of *manzai*, a traditional Japanese comedic dialogue, two comedians deliver their lines into microphones with expressive energy.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "game",
+    "item": "Manzai",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/toolninstrument/Kane/640px-thumbnail (1).jpg",
+    "caption": {
+      "caption": "This ancient bronze mirror, adorned with intricate patterns and inscriptions, showcases the artistry and craftsmanship of a bygone era."
+    },
+    "level2": {
+      "caption": "A weathered bronze circular object with raised designs and handles rests on a clear display stand.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This weathered bronze circular toolninstrument from Japan features raised designs and handles, displayed on a clear stand.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level4": {
+      "caption": "This weathered Japanese *kane*, a circular bronze instrument with raised designs and handles, likely served a ritualistic or ceremonial purpose, as evidenced by its intricate detailing and form.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "toolninstrument",
+    "item": "Kane",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/clothes/Happi/Prime_Minister_Kishida_opening_a_cask_of_sake_(kagami_biraki)_at_the_the_ceremony_to_celebrate_the_relocation_of_the_Agency_for_Cultural_Affairs_20230326_cropped.jpg",
+    "caption": {
+      "caption": "A group of people in traditional Japanese attire participate in a sake barrel opening ceremony, known as 'kizake,' with a photographer capturing the moment."
+    },
+    "level2": {
+      "caption": "A group of people in dark pants and red jackets gather around a decorated platform as one person prepares to open a sake barrel.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 2
+    },
+    "level3": {
+      "caption": "In Japan, individuals wearing traditional garments participate in a ceremony involving a decorated platform.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 3
+    },
+    "level4": {
+      "caption": "In Japan, individuals wearing happi coats—traditional garments often adorned with slogans or emblems—participate in a ceremony involving a decorated platform, likely signifying a celebratory or auspicious occasion.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "clothes",
+    "item": "Happi",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/clothes/Kyahan/20111023_Jidai_0007.jpg",
+    "caption": {
+      "caption": "A group of performers in traditional Japanese attire march down a city street during a festival or parade, with a crowd of onlookers watching from behind a barrier."
+    },
+    "level2": {
+      "caption": "A group of performers march down a city street during an event, observed by a crowd of people behind a barrier.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 2,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "During a Japanese event, performers wearing traditional leg coverings march along a city street as spectators watch from behind a barrier.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "During a Japanese event, performers wearing *kyahan*, traditional leg coverings historically worn by samurai and ashigaru, march along a city street as spectators watch from behind a barrier.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "clothes",
+    "item": "Kyahan",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/architecture/Ryuun-in/Hayashi_Shihei_Grave.jpg",
+    "caption": {
+      "caption": "An open traditional Japanese building with flowers displayed inside, likely a part of a temple or shrine."
+    },
+    "level2": {
+      "caption": "An open building with a detailed wooden frame displays flowers inside.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 3,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "This Japanese architecture features an open structure with floral offerings displayed within its intricately crafted wooden frame.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "This Ryuun-in, a traditional Japanese architectural structure often found in temple grounds, displays floral offerings within its intricately crafted wooden frame as a sign of respect and remembrance.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 1
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "Ryuun-in",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/clothes/Kasa/笠_蓑_(518370731).jpg",
+    "caption": {
+      "caption": "Three traditional Vietnamese conical hats with long, flowing straw fringes hang on a wooden wall, showcasing a cultural craft."
+    },
+    "level2": {
+      "caption": "Three circular straw hats with fringed edges are displayed on a wooden wall.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "Displayed on a wooden wall in Japan are three examples of traditional clothing crafted from woven plant fibers.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "Displayed on a wooden wall in Japan are three examples of *kasa*, traditional Japanese hats woven from plant fibers historically used for protection from the elements and often associated with festivals and processions.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 3,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "clothes",
+    "item": "Kasa",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/clothes/Kasa/笠_蓑_(518370731).jpg",
+    "caption": {
+      "caption": "Three traditional Vietnamese conical hats with long, flowing straw fringes hang on a wooden wall, showcasing a cultural craft."
+    },
+    "level2": {
+      "caption": "Three circular straw hats with fringed edges are displayed on a wooden wall.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "Displayed on a wooden wall in Japan are three examples of traditional clothing crafted from woven plant fibers.",
+      "Cultural_Appropriateness": 3,
+      "Visual_Detail": 3,
+      "Hallucination": 4
+    },
+    "level4": {
+      "caption": "Displayed on a wooden wall in Japan are three examples of *kasa*, traditional Japanese hats woven from plant fibers historically used for protection from the elements and often associated with festivals and processions.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 3,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "clothes",
+    "item": "Kasa",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/cuisine/Anpan/Anpan_002.jpg",
+    "caption": {
+      "caption": "A cross-section of a Japanese anpan sweet roll reveals a dark red bean paste filling, topped with sesame seeds."
+    },
+    "level2": {
+      "caption": "A halved sweet roll displays a dark filling inside a soft, golden-brown bun and is sprinkled with seeds on top.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 3
+    },
+    "level3": {
+      "caption": "This Japanese cuisine features a dark filling within a soft, golden-brown bun, topped with seeds.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 3,
+      "Hallucination": 5
+    },
+    "level4": {
+      "caption": "This *anpan*, a popular Japanese sweet bread, showcases a red bean paste filling within a soft, golden-brown bun, traditionally enjoyed as a snack or light meal.",
+      "Cultural_Appropriateness": 5,
+      "Visual_Detail": 5,
+      "Hallucination": 5
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "cuisine",
+    "item": "Anpan",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/architecture/OmiashiJinja/檜隈寺石塔婆_01.jpg",
+    "caption": {
+      "caption": "A weathered stone pagoda stands amidst lush greenery, beautifully framed by the delicate white blossoms of a nearby tree."
+    },
+    "level2": {
+      "caption": "A tall stone structure rises from a green field, partially obscured by trees in full bloom.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A traditional architectural structure stands within a lush, green landscape in Japan.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "The OmiashiJinja, a traditional stone monument found in Japan, stands amidst vibrant greenery, serving as a symbolic marker often associated with Shinto shrines and local spiritual beliefs.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 2,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "OmiashiJinja",
+    "nation": "Japan"
+  },
+  {
+    "image_path": "/media/Japan/architecture/OmiashiJinja/檜隈寺石塔婆_01.jpg",
+    "caption": {
+      "caption": "A weathered stone pagoda stands amidst lush greenery, beautifully framed by the delicate white blossoms of a nearby tree."
+    },
+    "level2": {
+      "caption": "A tall stone structure rises from a green field, partially obscured by trees in full bloom.",
+      "Cultural_Appropriateness": 1,
+      "Visual_Detail": 4,
+      "Hallucination": 1
+    },
+    "level3": {
+      "caption": "A traditional architectural structure stands within a lush, green landscape in Japan.",
+      "Cultural_Appropriateness": 2,
+      "Visual_Detail": 3,
+      "Hallucination": 2
+    },
+    "level4": {
+      "caption": "The OmiashiJinja, a traditional stone monument found in Japan, stands amidst vibrant greenery, serving as a symbolic marker often associated with Shinto shrines and local spiritual beliefs.",
+      "Cultural_Appropriateness": 4,
+      "Visual_Detail": 2,
+      "Hallucination": 4
+    },
+    "level1": {
+      "caption": "A modern, brightly colored Buddhist monk's robe demonstrates a contemporary adaptation of traditional Korean ritual garments."
+    },
+    "category": "architecture",
+    "item": "OmiashiJinja",
+    "nation": "Japan"
+  }
+]
